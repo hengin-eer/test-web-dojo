@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test-web-dojo/static/css/main.79b41932.css",
+    "main.js": "/test-web-dojo/static/js/main.e35e256c.js",
+    "static/media/YujiSyuku-Regular.ttf": "/test-web-dojo/static/media/YujiSyuku-Regular.597f191659eefd846b89.ttf",
+    "static/media/topview.jpg": "/test-web-dojo/static/media/topview.4493808e485de46526da.jpg",
+    "static/media/logoNobg.png": "/test-web-dojo/static/media/logoNobg.5ad0133a62a4fca4f17e.png",
+    "index.html": "/test-web-dojo/index.html",
+    "main.79b41932.css.map": "/test-web-dojo/static/css/main.79b41932.css.map",
+    "main.e35e256c.js.map": "/test-web-dojo/static/js/main.e35e256c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b41932.css",
+    "static/js/main.e35e256c.js"
+  ]
+}
